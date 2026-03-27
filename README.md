@@ -10,6 +10,7 @@ Whenever a file is uploaded to an Amazon S3 bucket, an AWS Lambda function is au
 ## 🏗️ Architecture
 
 ![Architecture](architecture.png)
+
 User uploads file → S3 Bucket → Lambda Trigger → File organized into folders
 
 ---
